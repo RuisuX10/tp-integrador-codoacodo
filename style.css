@@ -107,3 +107,7 @@ footer {
     text-decoration: none;
     color: aliceblue;
 }
+
+::-webkit-scrollbar {
+    display: none;
+}
